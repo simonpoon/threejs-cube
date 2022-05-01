@@ -10,7 +10,7 @@ function init(){
         1000
     );
     
-    renderer = new THREE.WebGLRenderer();
+    renderer = new THREE.WebGLRenderer({ alpha: true });
     
     renderer.setSize(window.innerWidth, window.innerHeight);
     

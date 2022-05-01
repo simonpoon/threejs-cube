@@ -1,6 +1,6 @@
 body{
     margin: 0;
-    background-image: url("/textures/51428.jpg");
+    background-image: url("./textures/51428.jpg");
 }
 canvas {
   width: 100%;
